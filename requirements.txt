@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-docx
+PyMuPDF
+requests
+streamlit-lottie
+wordcloud
+matplotlib
+fpdf
+python-dotenv
+streamlit-option-menu
